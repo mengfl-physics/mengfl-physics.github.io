@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags <big>*</big>must<big>*</big> come first in the head; any other head content must come <big>*</big>after<big>*</big> these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Publications</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="navbar-fixed-top.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-default" style="background-color: #e3f2fd;"">
+      <div class="container-fluid">
+        <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+          <a class="navbar-brand" href="index.html"><strong> MENG Group </strong> </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="Research.html"> Research </a></li>
+                    <li class="active"><a href="Publications.html"> Publications </a></li>
+                   <li><a href="CV.html"> CV </a></li>
+                   <li><a href="Group.html"> Group </a></li>
+                   <li><a href="openings.html"> Openings </a></li>
+                  <li><a href="Contacts.html"> Contacts </a></li>
+                </ul>
+        </div>
+      </div>
+    </nav>
+
+<div class="container-fluid">
+(<small><sup>#</sup></small>: Co-first authors, <big>*</big>: Corresponding authors)
+        <div class="space">
+        </div>
+        <div class="space">
+        </div>
+         <div class="space">
+         </div>
+</div>
+
+        <ul >
+               <h5  class="Helvetica">
+               <li> <strong> Journal papers </strong> </li>
+               </h5>
+       </ul>
+
+   <ol>
+       <div class="container-fluid">
+       <li> "Modeling bacterial flow field with regularized singularities",
+           Y. Yang, D. Matsunaga<big>*</big>, D. Wei<big>*</big>, and <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1103/pzsy-5k17"> <u> <i>Chinese Physics Letters</i>, 43, 050901</u> </a> (2026).</li>
+       <li> "Hydrodynamically Controlled Active Escape Dynamics",
+          W. Wei , S. Hu, W. Chen, X. Dai, Z. Jiao, <strong> F. Meng</strong><big>*</big>, and L. Yan<big>*</big>, <a href="https://doi.org/10.1103/pzsy-5k17"><u><i>Physical Review Letters</i> 136, 128301</u></a>  (2026).</li>
+       <li> "Osmotic pressure regulates DNA labelling and transcription with dCas9-SunTag system in live cells",
+           T. Wei, X. Yang, C. Jiang, K. Liao, H. Ye, H. Luo, Y. Liu, P. Wang, <strong> F. Meng</strong>, S. Dou<big>*</big>, Z. Rong<big>*</big>, and H.  Li<big>*</big>, <a href="https://www.nature.com/articles/s41467-025-66160-6"><u><i>Nature Communications</i> 17, 773</u></a>  (2026).</li>
+       <li> "Statistical Physics in Complex Systems: Challenges and Future Prospects",
+           M. Liu, H. Li, <strong> F. Meng</strong>, J. Ren, and X.  Chen<big>*</big>, <a href="http://dx.doi.org/10.1088/0256-307X/42/3/030201"><u><i>Chinese Physics Letters</i> 42, 030201</u></a> (2025).</li>
+        <li> "Confinement Reduces Surface Accumulation of Swimming Bacteria", D. Wei<sup>#</sup>, S. Hu<sup>#</sup>, T. Tang, Y. Yang, <strong> F. Meng</strong><big>*</big>, and Y. Peng<big>*</big>, <a href="https://doi.org/10.1103/dvc8-tlh1"><u> <i>Physical Review Letters</i> 135, 188401 </u></a> (2025).</li>
+        <li> "Curvature induces and enhances transport of spinning colloids through narrow channels",
+           E. Cereceda-Lopez, M. De Corato, I. Pagonabarraga,  <strong> F. Meng</strong>, P. Tierno, and A. Ortiz-Ambriz<big>*</big>, <a href="https://doi.org/10.1039/d4sm00829d"><u><i>Soft Matter</i> 20, 7615</u></a> (2024).</li>
+       <li> "Molecular dynamics simulations of microscopic structural transition and macroscopic mechanical properties of magnetic gels",
+           X. Wei, G. Junot, R. Golestanian, X. Zhou, Y. Wang, P. Tierno, and <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1063/5.0210769"><u><i>Journal of Chemical Physics</i> 161, 074902</u></a> (2024 JCP Emerging Investigators Special Collection) (2024).</li>
+         <div class="space"></div>
+       <li> "Scaling transition of active turbulence from two to three dimensions",
+           D. Wei, Y. Yang, X. Wei, R. Golestanian, M. Li, <strong> F. Meng</strong><big>*</big>, and Y. Peng*, <a href="https://doi.org/10.1002/advs.202402643"><u><i>Advanced Science</i> 11, 2402643</u></a> (2024).</li>
+         <div class="space"></div>
+       <li> "Multiflagellate swimming controlled by hydrodynamic interactions", S. Hu<big>*</big>, and <strong> F. Meng</strong><big>*</big>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.204002"> <u><i> Physical Review Letters</i> 132, 204002</u></a>  (2024). </li>
+         <div class="space"></div>
+         <li> "Near-field hydrodynamic interactions determine travelling wave directions of collectively beating cilia", Z. Cheng, A. Vilfan, Y. Wang, R. Golestanian, and <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1098/rsif.2024.0221"> <u><i>Journal of the Royal Society Interface</i>  21, 20240221</u></a> (2024).</li>
+         <div class="space"></div>
+        <li> "Hydrodynamics-induced long-range attraction between plates in bacterial suspensions", L. Ning<sup>#</sup>, X. Lou<sup>#</sup>, Q. Ma, Y. Yang, N. Luo, K. Chen, <strong> F. Meng</strong>, X. Zhou, M. Yang<big>*</big>, and Y. Peng<big>*</big>, <a href="https://doi.org/10.1103/PhysRevLett.131.158301"> <u><i> Physical Review Letters </i> 131, 158301</u></a>  (2023). </li>
+         <div class="space"></div>
+        <li> "Effect of fluid viscoelasticity, shear stress, and interface tension on the lift force in lubricated contacts", S. Hu, <strong> F. Meng</strong>, and M. Doi<big>*</big>, <a href="https://doi.org/10.1063/5.0173142"> <u><i> Journal of Chemical Physics </i> 159, 164106</u></a> (2023).</li> <div class="space"></div>
+        <li> "Phase coexistence in [C22/C1MIm]+[NO3]- ionic liquid mixtures and first-order phase transitions from homogeneous liquid to smectic B by varying the cation ratio", J. Yao, G. Saielli,  <strong> F. Meng</strong>, and Y. Wang<big>*</big>, <a href="https://doi.org/10.1039/D3CP01670F"> <u><i> Physical Chemistry Chemical Physics </i> 25, 21595</u></a> (2023).</li> <div class="space"></div>
+        <li> "Modelling viscoelasticity and dynamic nematic order of exchangeable liquid crystal elastomers",  J. Zhao, and  <strong> F. Meng</strong><big>*</big>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.068101"> <u><i> Physical Review Letters </i> 131, 068101</u></a> (2023).</li> <div class="space"></div>
+        <li> "Particle orbiting constrained by elastic filament as a model cilium for fluid pumping",  S. Hu<big>*</big>, and  <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1017/jfm.2023.436"> <u><i> Journal of Fluid Mechanics </i> 966, A23</u></a> (2023).</li> <div class="space"></div>
+        <li> "Shear hardening in frictionless amorphous solids near the jamming transition", D. Pan,  <strong> F. Meng</strong>, and Y. Jin<big>*</big>, <a href="https://doi.org/10.1093/pnasnexus/pgad047"> <u><i> PNAS Nexus, </i> pgad047</u></a> (2023).</li> <div class="space"></div>
+        <li> "Rheology of vitrimers", <strong> F. Meng</strong><big>*</big>, M. Saed, and E. Terentjev<big>*</big>, <a href="https://www.nature.com/articles/s41467-022-33321-w"> <u><i> Nature Communications </i> 13, 5753</u></a> (2022).</li> <div class="space"></div>
+        <li> "A Minimal Model for the Auxetic Response of Liquid Crystal Elastomers",  B. Yu, Y. Gao, B. Zheng, <strong> F. Meng</strong>, Y. Fang<big>*</big>, F. Ye<big>*</big>, and Z. Ouyang<big>*</big>, <a href="https://doi.org/10.1088/1674-1056/ac754e"> <u><i> Chinese Physics B </i> 31, 104601</u></a> (2022).</li> <div class="space"></div>
+        <li> "Modelling drying pathways of an evaporating soft matter droplet", G. Du, F. Ye, H. Luo, G. Jing, M. Doi, and <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1088/1572-9494/ac58ef"> <u><i> Communications in Theoretical Physics </i> 74, 095605</u></a> (2022) (special issue - CTP 40 Years Anniversary).</li> <div class="space"></div>
+        <li> "Elastically-mediated collective organisation of magnetic microparticles",  G. Junot, X. Wei, J. Ortin, R. Golestanian, Y. Wang, P. Tierno<big>*</big>, and <strong> F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1039/D2SM00565D"> <u><i> Soft Matter </i> 18, 5171-5176</u></a> (2022).</li> <div class="space"></div>
+        <li> "Field-controlling patterns of sheared ferrofluid droplets",S. Ishida<sup>#</sup><big>*</big>,  Y. Yang<sup>#</sup>, <strong> F. Meng</strong><big>*</big>, and D. Matsunaga<big>*</big>, <a href="https://doi.org/10.1063/5.0094415"> <u><i> Physics of Fluids </i> 34, 063309</u></a> (2022).</li> <div class="space"></div>
+        <li> "Molecular dynamics simulation of the structural, mechanical, and reprocessing properties of vitrimers based on a dynamic covalent polymer network", H. Zhao, X. Wei, Y. Fang, K. Gao, T. Yue, L. Zhang, V. Ganesan, <strong> F. Meng</strong><big>*</big>, and J. Liu<big>*</big>, <a href="https://doi.org/10.1021/acs.macromol.1c02034"> <u><i> Macromolecules </i> 55, 1091-1103</u></a> (2022). </li> <div class="space"></div>
+        <li> "Scaling regimes of active turbulence with external dissipation", B. Martnez-Prat<sup>#</sup>, R. Alert<sup>#</sup>, <strong>F. Meng</strong>, J. Ignes-Mullol, J.-F. Joanny, J. Casademunt, R. Golestanian, and F. Sagues, <a href="https://doi.org/10.1103/PhysRevX.11.031065"> <u><i> Physical Review X </i> 11, 031065</u></a> (2021).</li> <div class="space"></div>
+        <li> "Conditions for metachronal coordination in arrays of model cilia", <strong>F. Meng</strong><sup>#</sup>, R. Bennett<sup>#</sup>, N. Uchida, and R. Golestanian<big>*</big>, <a href="https://doi.org/10.1073/pnas.2102828118"> <u><i> Proceedings of the National Academy of Sciences </i> 118, e2102828118</u></a> (2021).</li> <div class="space"></div>
+        <li> "Modelling mullins effect induced by chain delamination and reattachment", D. Qian, and <strong>F. Meng</strong><big>*</big>, <a href="https://doi.org/10.1016/j.polymer.2021.123608"> <u><i> Polymer </i> 222, 123608</u></a> (2021).</li> <div class="space"></div>
+        <li> "Magnetic microswimmers exhibit Bose-Einstein-like condensation",  <strong>F. Meng</strong>, D. Matsunaga, B. Mahault, and R. Golestanian<big>*</big>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.078001"> <u><i> Physical Review Letters </i> 126, 078001</u></a> (2021).</li> <div class="space"></div>
+        <li> "Bio-assembling macro-scale, lumenized airway tubes of defined shape via multi-organoid patterning and fusion", Y. Liu,  C. Dabrowska,  A. Mavousian,  B. Strauss,  <strong>F. Meng</strong>,  C. Mazzaglia,  K. Ouaras,  C. Macintosh,  E. Terentjev,  J. Lee<big>*</big>, and Y. Huang<big>*</big>, <a href="https://doi.org/10.1002/advs.202003332"> <u><i> Advanced Science </i> 8, 2003332</u></a> (2021).</li> <div class="space"></div>
+        <li> "Modelling elastically mediated liquid-liquid phase separation",  X. Wei<sup>#</sup>, J. Zhou<sup>#</sup>, Y. Wang, and <strong>F. Meng</strong><big>*</big>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.268001"> <u><i> Physical Review Letters </i> 125, 268001</u></a> (2020).</li> <div class="space"></div>
+        <li> "One-step generation of core-gap-shell microcapsules for stimuli-responsive biomolecular sensing", H. Kim<big>*</big>, S. Jo, <strong>F. Meng</strong>, Y. Guo, H. Therien-Aubin, R. Golestanian, K. Landfester, and E. Bodenschatz, <a href="https://doi.org/10.1002/adfm.202006019"> <u><i> Advanced Functional Materials </i> 30, 2006019</u></a> (2020).</li> <div class="space"></div>
+        <li> "Degenerate states, emergent dynamics and fluid mixing by magnetic rotors", T. Kawai, D. Matsunaga<big>*</big>, <strong>F. Meng</strong><big>*</big>, J. M. Yeomans, and R. Golestanian, <a href="https://doi.org/10.1039/D0SM00454E"> <u><i> Soft Matter </i> 16, 6484-6492</u></a> (Featured as back cover article) (2020).</li> <div class="space"></div>
+        <li> "Bridging chains mediate nonlinear mechanics of polymer nanocomposites under cyclic deformation", H. S. Varol<big>*</big>, A. Srivastava, S. Kumar, M. Bonn, <strong>F. Meng</strong>, and S. H. Parekh<big>*</big>, <a href="https://doi.org/10.1016/j.polymer.2020.122529"> <u><i> Polymer </i> 200, 122529</u></a> (2020).</li> <div class="space"></div>
+        <li> "Field synchronized bidirectional current in confined driven colloids", <strong>F. Meng</strong><sup>#</sup>, A. Ortiz-Ambriz<sup>#</sup>, H. Massana-Cid, A. Vilfan, R. Golestanian, and P. Tierno<big>*</big>, <a href="https://doi.org/10.1103/PhysRevResearch.2.012025"> <u><i> Physical Review Research </i> 2, 012025(R)</u></a> (2020).</li> <div class="space"></div>
+        <li> "Elasticity and relaxation in full and partial vitrimer networks", <strong>F. Meng</strong><big>*</big>, M. Saed, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.1021/acs.macromol.9b01123"> <u><i> Macromolecules </i> 52, 7423-7429</u></a> (2019).</li> <div class="space"></div>
+        <li> "Controlling collective rotational patterns of magnetic rotors",D. Matsunaga<sup>#</sup>, J. Hamilton<sup>#</sup>, <strong>F. Meng</strong>, N. Bukin, E. L. Martin, F. Ogrin, J. Yeomans and R. Golestanian<big>*</big>, <a href="https://doi.org/10.1038/s41467-019-12665-w"> <u><i> Nature Communications </i> 10, 4696</u></a> (2019).</li> <div class="space"></div>
+        <li> "Magnetically-actuated artificial cilium: a simple theoretical mode", <strong>F. Meng</strong>, D. Matsunaga, J. Yeomans, and R. Golestanian<big>*</big>, <a href="https://doi.org/10.1039/C8SM02561D"> <u><i> Soft Matter </i> 15, 3864-3871l</u></a> (Featured as inside back cover article) (2019).</li> <div class="space"></div>
+        <li> "Tunable self-healing of magnetically propelling colloidal carpets", H. Massana-Cid<sup>#</sup>, <strong>F. Meng</strong><sup>#</sup>, D. Matsunaga, R. Golestanian, and P. Tierno<big>*</big>, <a href="https://doi.org/10.1038/s41467-019-10255-4"> <u><i> Nature Communications </i> 10, 2444</u></a> (2019).</li> <div class="space"></div>
+        <li> "Fluidisation of transient filament networks",<strong>F. Meng</strong>, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.1021/acs.macromol.8b00012"> <u><i> Macromolecules </i> 51, 4660-4669</u></a> (2018).</li> <div class="space"></div>
+        <li> "Far-field theory for trajectories of magnetic ellipsoids in rectangular and circular channels", D. Matsunaga<big>*</big>, A. Zoettl, <strong>F. Meng</strong>, R. Golestanian, and J. M. Yeomans, <a href="https://doi.org/10.1093/imamat/hxy019"> <u><i> IMA Journal of Applied Mathematics </i> 83, 767-782</u></a> (2018).</li> <div class="space"></div>
+        <li> "Clustering of magnetic swimmers in a Poiseuille flow", <strong>F. Meng</strong>, D. Matsunaga, and R. Golestanian<big>*</big>, <a href="https://doi.org/10.1103/PhysRevLett.120.188101"> <u><i> Physical Review Letters </i> 120, 188101</u></a> (2018).</li> <div class="space"></div>
+        <li> "Castor oil derived poly (urethane urea) networks with reprocessibility and enhanced mechanical properties", J.-H. Chen, D.-D. Hu, Y.-D. Li, <strong>F. Meng</strong><big>*</big>, J. Zhu, and J.-B. Zeng<big>*</big>, <a href="https://doi.org/10.1016/j.polymer.2018.04.013"> <u><i> Polymer </i> 143, 79-86</u></a> (2018).</li> <div class="space"></div>
+        <li> "Theory of semiflexible filaments and networks", <strong>F. Meng</strong>, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.3390/polym9020052"> <u><i> Polymers </i> 9, 52</u></a> (2017).</li> <div class="space"></div>
+        <li> "Focusing and sorting of ellipsoidal magnetic particles in microchannels", D. Matsunaga, <strong>F. Meng</strong>, A. Zoettl, R. Golestanian, and J. M. Yeomans<big>*</big>, <a href="https://doi.org/10.1103/PhysRevLett.119.198002"> <u><i> Physical Review Letters </i> 119, 198002</u></a> (Editors' suggestion; Highlighted in APS Physics Synopsis) (2017).</li> <div class="space"></div>
+        <li> "Nanoparticle amount, and not size, determines chain alignment and nonlinear hardening in polymer nanocomposites", S. Varol, <strong>F. Meng</strong>, B. Hosseinkhani, C. Malm, D. Bonn, M. Bonn, A. Zaccone, and S. H. Parekh<big>*</big>, <a href="https://doi.org/10.1073/pnas.1617069114"> <u><i> Proceedings of the National Academy of Sciences </i> 114, E3170-E3177</u></a> (2017).</li> <div class="space"></div>
+        <li> "Nonlinear elasticity of semiflexible filament networks", <strong>F. Meng</strong>, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.1039/c6sm01029f"> <u><i> Soft Matter </i> 12, 6749-6756</u></a> (2016).</li> <div class="space"></div>
+        <li> "Stress relaxation, dynamics and plasticity of transient polymer networks", <strong>F. Meng</strong>, R. H. Pritchard, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.1021/acs.macromol.5b02667"> <u><i> Macromolecules </i> 49, 2843-2852</u></a> (2016).</li> <div class="space"></div>
+        <li> "Low-Voltage continuous electrospinning patterning", X. Li, Z. Li, L. Wang, G. Ma, <strong>F. Meng</strong>, R. H. Pritchard, E. L. Gill, Y. Liu, and Y. Y. S. Huang<big>*</big>, <a href="https://doi.org/10.1021/acsami.6b07797"> <u><i> ACS applied materials & interfaces </i> 8, 32120-32131</u></a> (2016).</li> <div class="space"></div>
+        <li> "Transient network at large deformations: elastic-plastic transition and necking instability", <strong>F. Meng</strong>, and E. Terentjev<big>*</big>, <a href="https://doi.org/10.3390/polym8040108"> <u><i> Polymers </i> 8, 108</u></a> (2016).</li> <div class="space"></div>
+        <li> "Solute based Lagrangian scheme in modeling the drying process of soft matter solutions", <strong>F. Meng</strong><big>*</big>, L. Luo, M. Doi<big>*</big> and Z-C. Ouyang, <a href="https://doi.org/10.1140/epje/i2016-16022-9"> <u><i> European Physical Journal E </i> 39, 22</u></a> (2016).</li> <div class="space"></div>
+        <li> "Skin formation in drying a film of soft matter solutions -- application of solute based Lagrangian scheme", L. Luo, <strong>F. Meng</strong>, J. Zhang, and M. Doi<big>*</big>, <a href="https://doi.org/10.1088/1674-1056/25/7/076801"> <u><i> Chinese Physics B </i> 25, 076801</u></a> (2016).</li> <div class="space"></div>
+        <li> "The 'coin-through-the rubber' trick: an elastically stabilized invagination", <strong>F. Meng</strong>, M. Doi, Z-C. Ouyang, X. Zheng, and P. Palffy-Muhoray<big>*</big>, <a href="https://doi.org/10.1007/s10659-015-9546-1"> <u><i> Journal of Elasticity </i> 123, 43-57</u></a> (2015).</li> <div class="space"></div>
+        <li> "The phase diagram and radial collapse of an inflated soft tube under twist", <strong>F. Meng</strong>, J. Z. Y. Chen, M. Doi<big>*</big>, and Z-C. Ouyang, <a href="https://doi.org/10.1039/C5SM01740H"> <u><i> Soft Matter </i> 11, 7046-7052</u></a> (2015). </li> <div class="space"></div>
+        <li> "Cavitation in drying droplets of soft matter solutions", <strong>F. Meng</strong>, M. Doi<big>*</big>, and Z-C. Ouyang, <a href="https://doi.org/10.1103/PhysRevLett.113.098301"> <u><i> Physical Review Letters </i> 113, 098301</u></a> (2014).</li> <div class="space"></div>
+        <li> "Phase diagrams and interface in inflating balloon", <strong>F. Meng</strong>, J. Z. Y. Chen, M. Doi<big>*</big>, and Z-C. Ouyang, <a href="https://doi.org/10.1002/aic.14410"> <u><i> AIChE Journal </i> 60, 1393-1399</u></a> (2014).</li> <div class="space"></div>
+        <li> "A theoretical study on entropy-driven polymer translocation through a finite-sized nanochannel", <strong>F. Meng</strong>, M. Li, X. Zhou<big>*</big>, and Z-C. Ouyang, <a href="https://doi.org/10.1016/j.cplett.2013.02.059"> <u><i> Chemical Physics Letters </i> 565, 116-121</u></a> (2013).</li> <div class="space"></div>
+   </ol>
+
+   <div class="space">       </div>
+
+    <ul >
+               <h5  class="Helvetica">
+               <li> <strong> Book and Book chapters </strong> </li>
+               </h5>
+    </ul>
+
+    <ol>
+       <div class="container-fluid">
+        <li> <strong> F. Meng</strong>, E. Terentjev, (Eds.) <a href=" https://books.rsc.org/books/edited-volume/2386/Theoretical-Modelling-of-Dynamically-Crosslinked"> "Theoretical Modelling of Dynamically Crosslinked Polymer Networks"</a>. <i>Royal Society of Chemistry</i> (2025). </li> <div class="space"></div>
+        <li> <strong> F. Meng</strong><big>*</big>, <a href="https://onlinelibrary.wiley.com/doi/10.1002/9783527839568.ch1"> "Modeling (Visco)elasticity of Macromolecular and Biomacromolecular Networks"</a>, <i>WILEY-VCH GmbH</i>  (2023).</li> <div class="space"></div>
+   </ol>
+
+
+
+
+</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://fastly.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="https://fastly.jsdelivr.net/npm/@bootcss/v3.bootcss.com@1.0.35/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://fastly.jsdelivr.net/npm/@bootcss/v3.bootcss.com@1.0.35/dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://fastly.jsdelivr.net/npm/@bootcss/v3.bootcss.com@1.0.35/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+
+<!--
+<li>G. Du, F. Ye, H. Luo, G. Jing, M. Doi, and <strong> F. Meng</strong><big>*</big>, "Modelling Drying Pathways of an Evaporating Soft Matter Droplet", Communications in Theoretical Physics, in press (2022) ("40 Anniversary Issue").</li> <div class="space"></div>
+-->
