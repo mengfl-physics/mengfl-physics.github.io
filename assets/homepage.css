@@ -1,0 +1,41 @@
+/* The header and typography are shared with every page through site.css. */
+.home-page{width:100%;min-width:0;background:#f6f4ed}
+.home-page #main{display:block;width:100%;min-width:0}
+.home-masthead{width:calc(100% - 64px);max-width:1280px;margin:0 auto;padding:20px 0 40px}
+.masthead-frame{position:relative;width:100%;margin:0;overflow:hidden;background:#eee9dc}
+.masthead-artwork{position:relative}
+.masthead-picture,.masthead-picture img{display:block;width:100%}
+.masthead-picture img{height:auto;aspect-ratio:1536/659}
+.masthead-frame:after{content:"";pointer-events:none;position:absolute;top:0;left:0;width:75%;height:65%;background:radial-gradient(ellipse at 5% 5%,rgba(248,245,236,.58),rgba(248,245,236,.27) 45%,transparent 72%);z-index:1}
+.masthead-heading{position:absolute;left:clamp(26px,3.6vw,54px);top:clamp(26px,3.1vw,48px);z-index:2;color:#163c43;pointer-events:none}
+.masthead-kicker{font:700 clamp(9px,.8vw,12px)/1.4 Arial,sans-serif;letter-spacing:.18em;margin:0 0 clamp(12px,1.15vw,22px)}
+.masthead-kicker span{color:#af5b3e;margin-left:8px;margin-right:8px}
+.masthead-heading h1{font:400 clamp(43px,4.7vw,72px)/1.04 var(--serif);letter-spacing:-.055em;margin:0}
+.masthead-caption{width:100%;margin:0;display:flex;align-items:center;justify-content:space-between;gap:18px;padding:15px 0 0;font-size:10px;line-height:1.5;color:#647474;letter-spacing:.04em}
+.location-dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:#ba6749;vertical-align:middle;margin-left:8px}
+.figure-hotspots{position:absolute;inset:0;z-index:3;pointer-events:none}
+.figure-hotspot{position:absolute;width:44px;height:44px;display:flex;align-items:center;justify-content:center;transform:translate(-50%,-50%);pointer-events:auto;text-decoration:none;color:#173942;border-radius:50%}
+.hotspot-networks{left:8%;top:75%}
+.hotspot-droplets{left:25%;top:62%}
+.hotspot-smart{left:42%;top:44%}
+.hotspot-colloids{left:57%;top:55%}
+.hotspot-swimmers{left:87%;top:24%}
+.hotspot-cilia{left:81%;top:84%}
+.hotspot-dot{display:flex;align-items:center;justify-content:center;width:25px;height:25px;background:#fffaf0ed;border:1px solid #173942;box-shadow:0 1px 7px #102d3540;border-radius:50%;font:400 21px/1 Arial,sans-serif;transition:transform .15s,background .15s}
+.hotspot-label{position:absolute;bottom:43px;left:50%;transform:translateX(-50%);padding:8px 12px;background:#173942;color:#fffaf0;font:600 12px/1.4 var(--sans);white-space:nowrap;opacity:0;visibility:hidden;border-radius:2px;pointer-events:none}
+.figure-hotspot[data-align="right"] .hotspot-label{left:auto;right:10px;transform:none}
+.figure-hotspot[data-align="left"] .hotspot-label{left:10px;transform:none}
+.figure-hotspot:hover .hotspot-dot,.figure-hotspot:focus-visible .hotspot-dot{background:#fffaf0;transform:scale(1.16)}
+.figure-hotspot:hover .hotspot-label,.figure-hotspot:focus-visible .hotspot-label{opacity:1;visibility:visible}
+.home-page .site-footer{padding-top:40px}
+.visitor-stats{display:flex;align-items:baseline;flex-wrap:wrap;gap:10px 30px;border-top:1px solid #48646a;margin-top:30px;padding:22px 0 0;color:#c2d2cd;font-size:12px}
+.visitor-stat{display:inline-flex;align-items:baseline;gap:12px}
+.visitor-stats strong{font:400 22px/1.2 var(--serif);font-variant-numeric:tabular-nums;letter-spacing:0;color:#e3b291;min-width:1ch}
+.visitor-stats-status{font-size:11px;color:#adc3bc}
+.visitor-stats-status:empty{display:none}
+.visitor-stats noscript{font-size:11px;color:#adc3bc}
+.home-page .site-footer .copyright{margin-top:24px}
+@media(max-width:870px){.home-masthead{width:calc(100% - 48px);padding-top:18px}.masthead-heading{top:26px;left:29px}.masthead-heading h1{font-size:clamp(38px,5.3vw,46px)}.masthead-kicker{font-size:8px;letter-spacing:.12em;margin-bottom:12px}.masthead-caption{font-size:9px}.hotspot-smart{top:56%}}
+@media(max-width:700px){.home-masthead{width:100%;padding:0 0 30px}.masthead-frame{background:transparent;display:flex;flex-direction:column}.masthead-frame:after{display:none}.masthead-heading{position:static;padding:35px 20px 26px}.masthead-heading h1{font-size:clamp(38px,9vw,60px);line-height:1.05}.masthead-kicker{font-size:9px;letter-spacing:.12em;margin-bottom:18px}.masthead-caption{padding:13px 20px 0;display:block;font-size:9px;line-height:1.6}.masthead-caption>span{display:block}.masthead-caption>span+span{margin-top:3px}.hotspot-smart{top:44%}.hotspot-dot{width:22px;height:22px;font-size:18px}.hotspot-label{font-size:10px;padding:7px 9px}.figure-hotspot[data-align="left"] .hotspot-label{left:6px}.home-page .site-footer .footer-grid{grid-template-columns:1fr;gap:25px}}
+@media(hover:none){.figure-hotspot:hover .hotspot-label{opacity:0;visibility:hidden}}
+@media(prefers-reduced-motion:reduce){.hotspot-dot{transition:none}}
